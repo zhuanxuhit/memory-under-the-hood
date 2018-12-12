@@ -1,13 +1,13 @@
 package main
 
 import (
-	"net/http"
 	"fmt"
 	"html"
+	"log"
+	"net/http"
 	"os"
 	"runtime"
 	"time"
-	"log"
 )
 
 func main() {
